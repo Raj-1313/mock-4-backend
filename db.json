@@ -8,11 +8,10 @@
 		"edition": "2021",
 		"publisher": "Bloomsbury",
 		"cost": 1299,
-		"borrowed": false,
+		"borrowed": false
   }
   ],
   "todos": [
     { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  ]
 }
